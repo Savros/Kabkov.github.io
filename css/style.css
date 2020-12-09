@@ -1,0 +1,30 @@
+#main {
+	height: 100vh;
+	background-color: #a345ae;
+}
+
+#example {
+	height: 100vh;
+	background-color: #af2a;
+}
+
+.section_box {
+	font-weight: bold;
+	color: #fff;
+	background-color: #888;
+	border: 1px solid #0f0;
+	height: 300px;
+}
+
+.example_box {
+	height: 50px;
+	background-color: #0f0;
+	border: 1px solid #000;
+}
+
+.element {
+	margin-top: 10%;
+	height: 100px;
+	border: 2px solid #000;
+	background-color: #09d;
+}
